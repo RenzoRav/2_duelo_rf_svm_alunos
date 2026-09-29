@@ -1,26 +1,35 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=050505&fontColor=222222&fontSize=12&fontAlign=50&fontAlignY=42&text=first+we+shape+the+tools.+then+the+tools+shape+us.&desc=&animation=fadeIn" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub><sup>complexity is the enemy of reliability.</sup></sub>
-</div>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=050505&fontColor=8B949E&fontSize=28&fontAlignY=50&text=look+deeper.&animation=fadeIn" />
 
 <div align="center">
 
-  ![java](https://img.shields.io/badge/java-%23080808.svg?style=for-the-badge&logo=openjdk&logoColor=252535)
-  ![c++](https://img.shields.io/badge/c++-%23080808.svg?style=for-the-badge&logo=cplusplus&logoColor=252535)
-  ![c#](https://img.shields.io/badge/c%23-%23080808.svg?style=for-the-badge&logo=csharp&logoColor=252535)
+<br>
+
+<code>0x00000000</code>
+
+<br><br>
+
+<h2>Software Developer</h2>
+
+<sub>reverse engineering</sub>
+
+<br><br><br>
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,spring,postgres,vue&theme=dark" />
+
+<br><br><br>
+
+<pre>
+mov     rax, understanding
+call    analyze
+call    rebuild
+</pre>
+
+<br><br>
+
+<sub>0xFFFFFFFF</sub>
+
+<br><br>
 
 </div>
 
-<br/>
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=050505&fontColor=111111&fontSize=10&fontAlign=50&fontAlignY=55&text=//+silence+is+also+code" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=30363D" />
